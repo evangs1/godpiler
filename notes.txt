@@ -1,0 +1,12 @@
+Three Address Code (3AC):
+
+made up of normal arm instructions where all parameters are a combination of variable references,
+symbolic registers, and even normal hardware registers (but will try to stick with a0-3, v4-vx
+instead of r0-rx) and stack pointers and other stuff
+
+Final Code Form (FCF) should remove all replace all variable references and symbolic references with
+actual hardware registers
+
+3AC should not have any abstracted instructions
+
+When translating 3AC to FCF,
