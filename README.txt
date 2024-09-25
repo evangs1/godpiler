@@ -32,7 +32,7 @@ If I had any more time, I would have loved to make a Spiller. I think spilling a
 
 I started this rewrite on April 20th. I have put in ~87 hours (yes I am counting). You may ask, why would you redo your entire project just weeks before school ends? 87 Hours!?! That's crazy! Well that should tell you just how bad my old compiler was. In fact, I think the compiler rewrite actually saved me time in the end. And now I have my first project in C++, and I don't think it's half bad.
 
-If you have any question for me about my project, feel free to ask! You can find me at shaw133@purdue.edu.
+If you have any question for me about my project, feel free to ask! You can find me at xxxxxxx@purdue.edu.
 
 I had a lot of fun this year in CS352. I can't wait to see you all again next semester, when I have to take this class over again :)
 
